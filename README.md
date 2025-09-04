@@ -3,6 +3,7 @@ This project is an interactive Power BI dashboard built using the provided Order
 🚀 Project Objective
 To analyze orders data and develop an interactive dashboard in Power BI that showcases:
 •	Sales performance
+
 •	Profitability
 •	Customer and product return trends 
 •	Regional contributions
